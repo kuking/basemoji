@@ -89,7 +89,7 @@ fn decode_stdin_stdout(emoji_to_byte :&HashMap<u32,u8>) {
 
 static USAGE: &'static str = "
 Usage: basemoji [options]
-Emoji encode or decode standard input to standard output 😝
+Emoji encode or decode standard input to standard output 😍
 
 Options: -d    decode basemoji
          -e    encode basemoji
