@@ -1,4 +1,4 @@
-# basemoji
+# basemoji [<img src="https://travis-ci.org/kuking/basemoji.svg?branch=master">](https://travis-ci.org/kuking/basemoji)
 Happy Emoji Day! - encodes and decodes files in base emoji
 
 😍😍
