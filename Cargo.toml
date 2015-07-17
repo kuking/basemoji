@@ -1,0 +1,7 @@
+[dependencies]
+docopt = "0.6.67"
+
+[package]
+name = "basemoji"
+version = "0.1.0"
+authors = ["Eduardo ES Riccardi <ed@kukino.uk>"]
