@@ -23,3 +23,6 @@ you can use files too:
 $ cat very-serious-file | basemoji -e > slighly-less-serious-file
 $ cat slightly-less-serious-file | basemoji -d > very-serious-file
 ```
+
+:)
+
